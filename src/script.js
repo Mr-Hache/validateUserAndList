@@ -1,0 +1,1 @@
+const variableDePrueba = 'Hola mundo';
