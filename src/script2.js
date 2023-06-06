@@ -1,1 +1,0 @@
-const variable = "prueba de conflicto1"
