@@ -1,0 +1,1 @@
+const variable2= "prueba de conflicto 3"
