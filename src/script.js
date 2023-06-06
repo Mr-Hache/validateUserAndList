@@ -1,1 +1,1 @@
-const variableDePrueba = 'Hola mundo';
+const variableDePrueba = 'Hola mundo2';
